@@ -1,0 +1,7 @@
+{
+    "sdk_name": "Name of the SDK",
+    "library_name": "Name of the library/module",
+    "admin_name": "FirstName LastName",
+    "admin_email": "firstname.lastname@example.com"
+    
+}
